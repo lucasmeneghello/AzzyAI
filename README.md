@@ -2,7 +2,7 @@
 
 This is the source code repository for AzzyAI. 
 
-I no longer play RO, and do not have time to take it up or maintain this AI except on a paid basis ($50/hr - that's what I get for other paid projects). I would like to find someone else to take up further development and maintenance of this AI - please contact me if you are interested - I can provide a bit of orientation for someone taking this on. 
+I don't own any of this code.It all belongs to Dr. Azzy. I'm just saving it for future use.
 
 === Organization ===
 
